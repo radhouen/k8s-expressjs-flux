@@ -14,4 +14,4 @@ spec:
   values:
     ingress:
       enabled: false
-    image: nginx
+    image: alexellis2/service:0.3.6
